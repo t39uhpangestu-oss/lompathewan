@@ -1,6 +1,6 @@
 // Service worker untuk Lompat Hewan Tak Terbatas
 // Ganti VERSI setiap kali isi game diperbarui, misalnya lompat-v2
-const VERSI = 'lompat-v1';
+const VERSI = 'lompat-v2';
 const BERKAS = [
   './',
   './index.html',
